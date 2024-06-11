@@ -1,0 +1,22 @@
+2024-06-01 01:09:16.538 [info] Uninstalling extension from the profile: rust-lang.rust-analyzer@0.3.1975 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-06-01 01:09:16.572 [info] Marked extension as uninstalled rust-lang.rust-analyzer-0.3.1975-linux-x64
+2024-06-01 01:09:16.628 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-06-01 01:09:22.362 [info] Successfully uninstalled extension from the profile rust-lang.rust-analyzer@0.3.1975 vscode-userdata:/root/.vscode/extensions/extensions.json
+2024-06-01 01:09:24.233 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-06-01 01:09:24.244 [info] Installing extension: rust-lang.rust-analyzer
+2024-06-01 01:09:25.131 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Duration: 725ms.
+2024-06-01 01:09:25.138 [info] Removed the extension from uninstalled list: rust-lang.rust-analyzer
+2024-06-01 01:09:25.174 [info] Extension installed successfully: rust-lang.rust-analyzer
+2024-06-01 01:09:25.245 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

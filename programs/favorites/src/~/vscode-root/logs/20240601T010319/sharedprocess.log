@@ -1,0 +1,14 @@
+2024-06-01 01:03:42.506 [info] Getting Manifest... rust-lang.rust-analyzer
+2024-06-01 01:03:42.514 [info] Installing extension: rust-lang.rust-analyzer
+2024-06-01 01:03:46.535 [info] Extension signature verification result for rust-lang.rust-analyzer: Success. Duration: 1082ms.
+2024-06-01 01:03:46.914 [info] Extracted extension to file:///root/.vscode/extensions/rust-lang.rust-analyzer-0.3.1975-linux-x64: rust-lang.rust-analyzer
+2024-06-01 01:03:46.929 [info] Renamed to /root/.vscode/extensions/rust-lang.rust-analyzer-0.3.1975-linux-x64
+2024-06-01 01:03:46.932 [info] Extracting extension completed. rust-lang.rust-analyzer
+2024-06-01 01:03:46.944 [info] Extension installed successfully: rust-lang.rust-analyzer
+2024-06-01 01:03:47.016 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/root/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/usr/share/code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)

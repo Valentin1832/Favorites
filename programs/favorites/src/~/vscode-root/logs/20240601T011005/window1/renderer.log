@@ -1,0 +1,4 @@
+2024-06-01 01:10:06.619 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/root/favorites/programs/favorites/src/lib.rs","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-06-01 01:10:06.942 [info] Started local extension host with pid 24391.
+2024-06-01 01:10:09.763 [info] [perf] Render performance baseline is 142ms
+2024-06-01 01:22:59.378 [info] Started local extension host with pid 85714.

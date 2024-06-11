@@ -1,0 +1,6 @@
+2024-05-31 18:04:35.366 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/root/favorites/programs/favorites/src/lib.rs","scheme":"file"},"type":1,"exists":true,"options":{}}],"filesToDiff":[],"filesToMerge":[]}
+2024-05-31 18:04:35.725 [info] Started local extension host with pid 17723.
+2024-05-31 18:04:35.783 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-05-31 18:04:36.056 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///root/.vscode/extensions Unable to create file 'vscode-userdata:/root/.vscode/extensions/extensions.json' that already exists when overwrite flag is not set
+2024-05-31 18:04:36.056 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode/extensions
+2024-05-31 18:04:38.753 [info] [perf] Render performance baseline is 25ms

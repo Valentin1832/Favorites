@@ -1,0 +1,7 @@
+2024-06-01 01:03:19.417 [info] update#setState idle
+2024-06-01 01:03:49.420 [info] update#setState checking for updates
+2024-06-01 01:03:49.499 [info] update#setState idle
+2024-06-01 01:07:37.014 [info] Extension host with pid 3985 exited with code: 0, signal: unknown.
+2024-06-01 01:07:37.053 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?)). Details: Keys: editorFontInfo, __$__targetStorageMarker, workbench.welcomePage.restorableWalkthroughs Length: 2907
+2024-06-01 01:07:37.053 [error] [storage state.vscdb] prepare(): Error: SQLITE_READONLY_DBMOVED: attempt to write a readonly database (INSERT INTO ItemTable VALUES (?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?),(?,?)). Details: Keys: __$__targetStorageMarker, lifecyle.lastShutdownReason, workbench.editor.centered, workbench.zenMode.active, workbench.zenMode.exitInfo, workbench.panel.wasLastMaximized, workbench.sideBar.position, workbench.panel.position, workbench.activityBar.hidden, workbench.sideBar.hidden, workbench.editor.hidden, workbench.panel.hidden, workbench.auxiliaryBar.hidden, workbench.statusBar.hidden Length: 1749
+2024-06-01 01:07:37.055 [error] Error: ENOENT: no such file or directory, unlink '/home/praga/favorites/programs/favorites/src/~/vscode-root/User/workspaceStorage/1717193000238/state.vscdb'
